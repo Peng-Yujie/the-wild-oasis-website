@@ -35,7 +35,7 @@ export default async function Navigation() {
                 className="w-8 h-8 rounded-full"
                 referrerPolicy="no-referrer"
               />
-              <span>Guest area</span>
+              <span>{session.user.name.split(" ")[0]}</span>
             </Link>
           ) : (
             <Link
