@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# The Wild Oasis Website
+
+This repo contains the source code for the Wild Oasis website. The website is built using Next.js, Tailwind CSS, Supabase, and Google OAuth.
 
 ## Getting Started
 
